@@ -11,7 +11,11 @@ Do clinical visits occur according to study schedule?
        1. Sets up the environment for all clinical study programs
        2. Reports on clinical vists that are not on schedule. Do not occur in visit window.
        3. Zip archive with all inputs, outputs, programs and tools pharma.7z
-
+       
+      github                                                                                          
+     https://tinyurl.com/yvxbdnu4                                                                    
+     https://github.com/rogerjdeangelis/utl-do-clinical-visits-occur-according-to-study-schedule     
+                                                                                               
     */
     /**************************************************************************************************************************/
     /*                                                                                                                        */
